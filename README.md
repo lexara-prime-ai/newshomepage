@@ -1,6 +1,6 @@
 ## Frontend Mentor - News homepage
 
-*Live preview* :
+####*Live preview* : https://news-homepage-bkbl.onrender.com/
 
 *Previews*
 
