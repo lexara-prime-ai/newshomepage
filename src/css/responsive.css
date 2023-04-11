@@ -70,3 +70,9 @@
         font-size: 1.6rem;
     }
 }
+
+@media (max-width:768px) {
+    #root {
+        max-width: 100%;
+    }
+}
